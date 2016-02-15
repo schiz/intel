@@ -3,4 +3,4 @@
 * Front-end development of a promo-site for russian branch of "lntel corp."
 * Stack: HTML5, CSS3, JavaScript (jQuery), Underscore.js, Backbone.js
 
-![alt text](https://github.com/schiz/intel/ishodnik.jpg "Intel markup")
+![alt text](https://github.com/schiz/intel/raw/master/ishodnik.jpg "Intel markup")
